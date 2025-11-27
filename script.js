@@ -1,78 +1,78 @@
 const API_DATA = [
     {
-        name: "Felipe Almeida",
+        nome: "Felipe Almeida",
         email: "felipe.almeida@gmail.com",
-        city: "São Paulo"
+        cidade: "São Paulo"
     },
     {
-        name: "Ana Rodrigues",
+        nome: "Ana Rodrigues",
         email: "ana.rodrigues@yahoo.com",
-        city: "Rio de Janeiro"
+        cidade: "Rio de Janeiro"
     },
     {
-        name: "Lucas Menezes",
+        nome: "Lucas Menezes",
         email: "lucas.menezes@hotmail.com",
-        city: "Fortaleza"
+        cidade: "Fortaleza"
     },
     {
-        name: "Mariana Castro",
+        nome: "Mariana Castro",
         email: "mariana.castro@gmail.com",
-        city: "Belo Horizonte"
+        cidade: "Belo Horizonte"
     },
     {
-        name: "João Pedro Silva",
+        nome: "João Pedro Silva",
         email: "joao.pedro.silva@gmail.com",
-        city: "Curitiba"
+        cidade: "Curitiba"
     },
     {
-        name: "Carla Fernandes",
+        nome: "Carla Fernandes",
         email: "carla.fernandes@hotmail.com",
-        city: "Recife"
+        cidade: "Recife"
     },
     {
-        name: "Pedro Henrique Alves",
+        nome: "Pedro Henrique Alves",
         email: "pedro.h.alves@gmail.com",
-        city: "Salvador"
+        cidade: "Salvador"
     },
     {
-        name: "Beatriz Morais",
+        nome: "Beatriz Morais",
         email: "beatriz.morais@yahoo.com",
-        city: "Porto Alegre"
+        cidade: "Porto Alegre"
     },
     {
-        name: "Rafael Oliveira",
+        nome: "Rafael Oliveira",
         email: "rafael.oliveira@gmail.com",
-        city: "Manaus"
+        cidade: "Manaus"
     },
     {
-        name: "Juliana Santos",
+        nome: "Juliana Santos",
         email: "juliana.santos@hotmail.com",
-        city: "Brasília"
+        cidade: "Brasília"
     },
     {
-        name: "Eduardo Nascimento",
+        nome: "Eduardo Nascimento",
         email: "eduardo.nascimento@gmail.com",
-        city: "Campinas"
+        cidade: "Campinas"
     },
     {
-        name: "Larissa Freitas",
+        nome: "Larissa Freitas",
         email: "larissa.freitas@yahoo.com",
-        city: "Natal"
+        cidade: "Natal"
     },
     {
-        name: "Thiago Cardoso",
+        nome: "Thiago Cardoso",
         email: "thiago.cardoso@hotmail.com",
-        city: "Belém"
+        cidade: "Belém"
     },
     {
-        name: "Camila Ribeiro",
+        nome: "Camila Ribeiro",
         email: "camila.ribeiro@gmail.com",
-        city: "Florianópolis"
+        cidade: "Florianópolis"
     },
     {
-        name: "Gustavo Martins",
+        nome: "Gustavo Martins",
         email: "gustavo.martins@gmail.com",
-        city: "Goiânia"
+        cidade: "Goiânia"
     }
 ];
 
